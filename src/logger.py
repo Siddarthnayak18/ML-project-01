@@ -1,4 +1,4 @@
-# purpose of logger is to store all the execution that happens in the file in some way to refer later
+# Purpose of logger is to store all the execution that happens in the file in some way to refer later
 
 
 import logging

@@ -6,4 +6,4 @@ catboost
 xgboost
 dill
 flask
--e .
+# -e . only use if yo want to build ml_version
